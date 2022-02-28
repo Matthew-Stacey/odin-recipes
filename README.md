@@ -1,0 +1,1 @@
+This is the first basic website I am creating alongside the Odin Project, which will be a very basic website featuring  small list of recipes. I created all the files and navigated them using the terminal and Git.
